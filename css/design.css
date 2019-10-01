@@ -67,7 +67,9 @@ p {
 	text-align: center;
 	font-size: 12px;
 }
-
+.feature-section a:focus{
+	text-decoration: none;
+}
 
 
 
